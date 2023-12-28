@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 SWE student<br>👨🏾‍💻Web Dev<br>🎯 Frontend Dev<br>✨Still pushing
+🎓 SWE student<br>👨🏾‍💻 Web Dev<br>🎯 Frontend Dev<br>✨ Still pushing
 
 
 ## 🌐 Socials:
