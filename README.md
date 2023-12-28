@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Currently a software engineering student<br>👨🏾‍💻I will be working on projects soon<br>🎯I would like to collab someday<br>✨Still pushing
+🎓 SWE student<br>👨🏾‍💻I will be working on projects soon<br>🎯I would like to collab someday<br>✨Still pushing
 
 
 ## 🌐 Socials:
