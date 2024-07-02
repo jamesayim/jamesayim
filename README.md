@@ -18,8 +18,8 @@
 ### ✍️ Some Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 A Dev Meme
-<img src="https://devhumor.com/content/uploads/images/June2024/junior_dev_description.jpg" width="512px" />
+### A Dev Meme
+<img src="https://devhumor.com/content/uploads/images/June2024/junior_dev_description.jpg" height="400px" width="400px" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jamesayim&icon=8&color=1)](https://visitcount.itsvg.in)
